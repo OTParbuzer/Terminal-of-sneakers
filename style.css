@@ -1,0 +1,226 @@
+.main-left, .main-right {
+    display: block; 
+  width: 500px;
+  height: 425px;
+  background-color: transparent;
+  border-radius: 8px;
+ /*border:none;*/ 
+  }
+
+  .rumain-left, .rumain-right {
+    display: block; 
+  width: 650px;
+  height: 425px;
+  background-color: transparent;
+  border-radius: 8px;
+ /*border:none;*/ 
+  }
+
+  .main-right {
+    position: relative; 
+    bottom: 850px;
+    left: 500px;
+  }
+
+  .rumain-right {
+    position: relative; 
+    bottom: 850px;
+    left: 650px;
+  }
+
+  .main-left:focus,.main-right:focus, .rumain-left:focus,.rumain-right:focus {
+    background: #fff;
+    transition: all 0.1s ease-in;
+  }
+
+
+
+  .language-eng {
+    display: block;
+    position: relative; 
+    bottom:840px;
+    left: 250px;
+  width: 200px;
+  height: 130px;
+  background-color: transparent;
+  border-radius: 8px;
+ /*border:none;*/ 
+  }
+  .language-eng:focus {
+    background: #147dd3;
+    transition: all 0.1s ease-in;
+  }
+
+  .language-ru {
+    display: block;
+    position: relative; 
+    bottom:710px;
+    left: 50px;
+  width: 200px;
+  height: 130px;
+  background-color: transparent;
+  border-radius: 8px;
+ /*border:none;*/ 
+  }
+  .language-ru:focus {
+    background: #d31414;
+    transition: all 0.1s ease-in;
+  }
+
+
+
+  .news,.freshnew,.featured,.main, .sale, .giftbonuses, .mainoffers {
+    display: block;
+    position: relative; 
+  background-color: transparent;
+  border-radius: 8px;
+ /*border:none;*/ 
+  }
+  .gg2:focus {
+    background: #ffffff;
+    transition: all 0.1s ease-in;
+  }
+
+  .news {
+    top: 17px;
+    left: 18px;
+  width: 919px;
+  height: 572px;
+  }
+
+  .freshnew {
+    bottom:557px;
+    left: 962px;
+  width: 922px;
+  height: 1150px;
+  }
+
+   .featured {
+    bottom:1107px;
+    left: 18px;
+  width: 919px;
+  height: 550px;
+  }
+
+  .main {
+    bottom:1279px;
+    left: 1701px;
+  width: 135px;
+  height: 128px;
+  }
+
+  .mainoffers {
+   bottom: 1165px;
+    left: 1752px;
+  width: 135px;
+  height: 128px;
+  }
+
+   .sale{
+    top: 90px;
+    left: 0px;
+  width: 950px;
+  height: 1100px;
+  }
+
+  .giftbonuses{
+    bottom: 1010px;
+    left: 950px;
+  width: 970px;
+  height: 1100px;
+  }
+
+  .year,.colour,.model,.men,.type,.woman,.advancedsearch, .mainsearch {
+      display: block;
+      position: relative; 
+    background-color: transparent;
+    border-radius: 8px;
+  /*border:none;*/ 
+  }
+  .year {
+    top: 256px;
+    left: 135px;
+    width: 345px;
+    height: 400px;
+  }
+  .colour {
+    top: 310px;
+    left: 135px;
+    width: 345px;
+    height: 400px;
+  }
+  .model{
+    bottom: 546px;
+    left: 620px;
+    width: 345px;
+    height: 400px;
+  }
+
+  .men{
+    bottom: 492px;
+    left: 620px;
+    width: 345px;
+    height: 400px;
+  }
+
+  .type{
+    bottom: 1346px;
+    left: 1097px;
+    width: 345px;
+    height: 400px;
+  }
+
+  .woman {
+    bottom: 1292px;
+    left: 1097px;
+    width: 345px;
+    height: 400px;
+  }
+
+  .advancedsearch {
+    bottom: 1792px;
+    left: 1502px;
+    width: 342px;
+    height: 191px;
+  }
+
+  .mainsearch{
+    bottom: 1568px;
+     left: 1753px;
+   width: 135px;
+   height: 128px;
+   }
+   .season, .colourtest,.appiontment{
+    display: block;
+    position: relative; 
+  background-color: transparent;
+  border-radius: 8px;
+  /*border:none;*/ 
+  width: 344px;
+  height: 402px;
+  }
+  .maintest{
+    display: block;
+    position: relative; 
+  background-color: transparent;
+  border-radius: 8px; 
+  }
+  .season{
+  top: 513px;
+  left: 78px;
+  }
+  .colourtest{
+  top: 111px;
+  left: 454px;
+  }
+  .appiontment{
+  bottom: 284px;
+  left: 830px;
+  }
+
+   .maintest{
+    bottom: 1192px;
+     left: 1755px;
+   width: 135px;
+   height: 128px;
+   }
